@@ -270,3 +270,4 @@ SC3_UID（可选）: 若不填会从SC3_SENDKEY自动解析。（形如 12345）
 现已解决，具体实现看`SecuritySm.py`文件
 
 4/12 update for actions
+5/12 update for actions
